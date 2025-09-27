@@ -5,7 +5,6 @@ from __future__ import annotations
 """PySide6 port of the Qt Document Viewer demo from Qt v6.x"""
 
 import sys
-import os
 import ctypes
 from argparse import ArgumentParser, RawTextHelpFormatter
 
