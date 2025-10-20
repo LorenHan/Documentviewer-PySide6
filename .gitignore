@@ -1,2 +1,6 @@
 /documentviewer/__pycache__
 /.claude/settings.local.json
+/documentviewer/imageviewer/__pycache__/*.pyc
+/documentviewer/jsonviewer/__pycache__/*.pyc
+/documentviewer/pdfviewer/__pycache__/*.pyc
+/documentviewer/txtviewer/__pycache__/*.pyc
